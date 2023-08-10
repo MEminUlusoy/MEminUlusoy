@@ -1,6 +1,6 @@
 ![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
 <h1 align="center">Hi 👋, I'm Emin!</h1>
-<h3 align="center">A Computer Engineer who interested in frontend developer</h3>
+<h3 align="center">A Computer Engineer who interested in frontend development</h3>
 
 - 🔭 I’m currently working on **React**
 
