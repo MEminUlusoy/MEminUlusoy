@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **ulusoyeminn@gmail.com**
 
