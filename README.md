@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=AI%20&%20Computer%20Vision%20Hub&fontSize=50&animation=fadeIn&fontAlignY=35&stroke=0366d6" alt="AI Hub" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/abstract-data-lines.svg" alt="AI Abstract Data" width="1000" height="250" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
