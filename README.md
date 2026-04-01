@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="AI Header" width="1000" height="300" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-and-dots.svg" alt="AI Network Header" width="1000" height="250" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
