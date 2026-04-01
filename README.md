@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/v-v-v/v-v-v/assets/38202166/363f8481-2292-411a-83b6-79ef8876882f" width="1000" alt="AI Neural Network Animation" />
+  <img src="ai.webp" alt="AI Neural Network" width="1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
