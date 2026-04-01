@@ -25,16 +25,16 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meminulusoy&show_icons=true&theme=radical" alt="Emin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meminulusoy&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Emin's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=radical" alt="Emin's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=radical" />
 </p>
