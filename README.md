@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/abstract-data-lines.svg" alt="AI Abstract Data" width="1000" height="250" />
+  <img src="https://raw.githubusercontent.com/meminulusoy/meminulusoy/main/ai-motion.gif" alt="AI Neural Network Flow" width="1000" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
