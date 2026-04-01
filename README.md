@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Emin!</h1>
 <h3 align="center">A Computer Engineer who tries to improve himself always</h3>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on **Tensorflow, OpenCV**
 
 - 📫 How to reach me **ulusoyeminn@gmail.com**
-
-- ⚡ Fun fact **I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
