@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MEminUlusoy/MEminUlusoy/blob/main/ai-motion.gif?raw=true" alt="AI Neural Network" width="1000" />
+  <img src="https://github.com/MEminUlusoy/MEminUlusoy/blob/main/ai-motion.gif?raw=true" width="1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
