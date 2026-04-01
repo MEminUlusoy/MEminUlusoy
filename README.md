@@ -27,14 +27,14 @@
 
 <h3 align="center">GitHub Statistics</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meminulusoy&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=tokyonight" />
 </p>
