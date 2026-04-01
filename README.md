@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/data-flow.svg" alt="Data Intelligence Header" width="1000" height="250" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Computer%20Vision%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
