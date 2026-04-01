@@ -33,14 +33,16 @@
 
 <h3 align="left">GitHub Statistics:</h3>
 
+<h3 align="left">GitHub Statistics</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meminulusoy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meminulusoy&show_icons=true&theme=flat&bg_color=ffffff&hide_border=true&title_color=0366d6&text_color=586069&icon_color=0366d6&v=4" alt="Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=flat&bg_color=ffffff&hide_border=true&title_color=0366d6&text_color=586069&icon_color=0366d6&v=4" alt="Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=flat&background=ffffff&hide_border=true&stroke=0366d6&ring=0366d6&fire=e34c26&v=4" alt="Streak" />
 </p>
