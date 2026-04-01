@@ -28,13 +28,13 @@
 <h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meminulusoy&show_icons=true&theme=radical&v=1" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meminulusoy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=meminulusoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=radical&v=1" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meminulusoy&theme=tokyonight" />
 </p>
