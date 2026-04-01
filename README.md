@@ -31,7 +31,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">GitHub Statistics</h3>
+<h3 align="left">GitHub Statistics:</h3>
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meminulusoy&show_icons=true&theme=tokyonight" />
