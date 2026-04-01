@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Computer%20Vision%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=250&section=header&text=Emin%20Ulusoy&subtitle=AI%20%26%20Computer%20Vision%20Developer&fontSize=50&subFontSize=20&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emin!</h1>
